@@ -13,6 +13,8 @@ name = 'Alice'
 greeting = "Hello, world!"
 multiline_string = '''This is a
 multiline string'''
+multiline_string = """This is a
+multiline string"""
 
 # Booleans
 is_sunny = True

@@ -7,10 +7,11 @@ _Variable = "_"
 x = 5
 name = "John"
 
+
 #Dynamic Typing
 x = 5     # x is an integer
 x = "John"   # now x is a string
-
+print(x)
 #Constants: While Python doesn't have built-in support for 
 # constants like some other languages, 
 # programmers conventionally use uppercase variable names 

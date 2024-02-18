@@ -37,4 +37,5 @@ bool_non_zero = bool(non_zero)
 bool_empty_string = bool(empty_string)
 bool_non_empty_string = bool(non_empty_string)
 
-print(bool_zero, bool_non_zero, bool_empty_string, bool_non_empty_string)  # Output: False True False True
+print(bool_zero, bool_non_zero, bool_empty_string, bool_non_empty_string)  
+# Output: False True False True
